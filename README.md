@@ -1,7 +1,7 @@
 # 2019-04 GOTO Amsterdam Great APIs Workshop
 
-#### GOTO Amsterdam Workshop Page: https://gotochgo.com/2019/workshops/157
-
+#### GOTO Amsterdam Workshop Page: https://gotoams.nl/2019/workshops/158
+ 
 ## Description
 
 There are lots of frameworks, tools, and patterns for creating APIs for the Web. But what does it really take? What are the essentials we all need to know? And which tools should every API developer have on hand, ready to use? This workshop, based on the new book "Designing and Building Great APIs" from Pragmatic Publishers answers these and other key questions on how to design, build, deploy, and manage quality APIs.
