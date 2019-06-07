@@ -11,13 +11,13 @@ In this workshop, we'll start with the basics of simple, elegant API design. Jus
 ## Workshop Schedule
 
  * 08:00-09:00 - Registration and breakfast
- * 09:00-10:30 - Designing APIs
+ * 09:00-10:30 - **Designing APIs**
  * 10:30-10:45 - Coffee break
- * 10:45-12:00 - Defining APIs
+ * 10:45-12:00 - **Defining APIs**
  * 12:00-13:00 - Lunch
- * 13:00-14:30 - Developing APIs
+ * 13:00-14:30 - **Developing APIs**
  * 14:30-14:45 - Coffee break
- * 14:45-16:00 - Deploying APIs
+ * 14:45-16:00 - **Deploying APIs**
 
 ## What You Can Bring to the Workshop
 
