@@ -15,9 +15,9 @@ In this workshop, we'll start with the basics of simple, elegant API design. Jus
  * 10:30-10:45 - Coffee break
  * 10:45-12:00 - Morning Session Two (Defining APIs)
  * 12:00-13:00 - Lunch
- * 13:00-14:30 - Afternoon Session Three (Building APIs)
+ * 13:00-14:30 - Afternoon Session Three (Developing APIs)
  * 14:30-14:45 - Coffee break
- * 14:45-16:00 - Afternoon Session Four (Releasing APIs)
+ * 14:45-16:00 - Afternoon Session Four (Deploying APIs)
 
 ## What You Can Bring to the Workshop
 
